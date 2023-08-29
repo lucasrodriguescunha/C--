@@ -1,4 +1,4 @@
-// Exercício 6: Calcular o somatório de 1 à N Recursivamente e Iterativamente. Valores  menores ou iguais a zero representam situações de erro. 
+// Exercício 6: Calcular o somatório de 1 à N Recursivamente e Iterativamente. Valores menores ou iguais a zero representam situações de erro. 
 
 #include <iostream>
 #include <stdio.h>
